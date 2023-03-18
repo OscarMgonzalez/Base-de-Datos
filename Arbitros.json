@@ -1,0 +1,26 @@
+[
+  {
+    "Nombres": "Edwin",
+    "Apelldos": "Alzate",
+    "Docmento": 45789064,
+    "¿Conoce las Reglas?": "si"
+  },
+  {
+    "Nombres": "Javier",
+    "Apelldos": "Carranza",
+    "Docmento": 79945890,
+    "¿Conoce las Reglas?": "si"
+  },
+  {
+    "Nombres": "Armando",
+    "Apelldos": "Aguilar",
+    "Docmento": 1014890675,
+    "¿Conoce las Reglas?": "si"
+  },
+  {
+    "Nombres": "Oscar",
+    "Apelldos": "Garcia",
+    "Docmento": 80678945,
+    "¿Conoce las Reglas?": "si"
+  }
+]

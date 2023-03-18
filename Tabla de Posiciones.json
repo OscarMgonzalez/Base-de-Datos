@@ -1,0 +1,42 @@
+[
+  {
+    "Nombre del Equipo": "los UN",
+    "Posiciones": 1,
+    "puntaje Total": 100
+  },
+  {
+    "Nombre del Equipo": "UPJ",
+    "Posiciones": 2,
+    "puntaje Total": 89
+  },
+  {
+    "Nombre del Equipo": "Los Troncos",
+    "Posiciones": 3,
+    "puntaje Total": 75
+  },
+  {
+    "Nombre del Equipo": "Los Master",
+    "Posiciones": 4,
+    "puntaje Total": 69
+  },
+  {
+    "Nombre del Equipo": "Los Magos",
+    "Posiciones": 5,
+    "puntaje Total": 55
+  },
+  {
+    "Nombre del Equipo": "Flash",
+    "Posiciones": 6,
+    "puntaje Total": 50
+  },
+  {
+    "Nombre del Equipo": "Flash",
+    "Posiciones": 7,
+    "puntaje Total": 49
+  },
+  {
+    "Nombre del Equipo": "Los Enanos",
+    "Posiciones": 8,
+    "puntaje Total": 40
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "lugar": "Cancha La Soledad",
+    "Fecha": "29/04/23",
+    "Hora": "16:00"
+
+  },
+  {
+    "lugar": "Cancha Tabora",
+    "Fecha": "9/05/23",
+    "Hora": "17:00"
+
+  },
+  {
+    "lugar": "Cancha Universidad Javeriana",
+    "Fecha": "18/05/23",
+    "Hora": "19:00"
+
+  },
+  {
+    "lugar": "Cancha La bombonera",
+    "Fecha": "2/06/23",
+    "Hora": "18:00"
+
+  },
+  {
+    "lugar": "Cancha La Gaitana",
+    "Fecha": "14/06/23",
+    "Hora": "14:00"
+
+  },
+  {
+    "lugar": "Cancha la Española",
+    "Fecha": "27/06/23",
+    "Hora": "20:00"
+
+  }
+]

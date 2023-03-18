@@ -1,0 +1,40 @@
+[
+  {
+    "Nombre": "Oscar",
+    "Apellido": "Gonzalez",
+    "Documento": 804783634,
+    "Estatura en cm":190
+  },
+  {
+    "Nombre": "Jose",
+    "Apellido": "Morales",
+    "Documento": 1014245674,
+    "Estatura en cm":189
+  },
+  {
+    "Nombre": "Pedro",
+    "Apellido": "Ramirez",
+    "Documento": 23586456,
+    "Estatura en cm":180 
+  },
+  {
+    "Nombre": "Carlos",
+    "Apellido": "Mendoza",
+    "Documento": 80047890,
+    "Estatura en cm":175
+  },
+  {
+    "Nombre": "Manuel",
+    "Apellido":"Mejia",
+    "Documento": 798905674,
+    "Estatura en cm":180
+  },
+  {
+    "Nombre": "Samuel",
+    "Apellido": "Perez",
+    "Documento": 65819089,
+    "Estatura en cm":196
+  }
+
+
+]

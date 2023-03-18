@@ -1,0 +1,38 @@
+[
+  {
+    "Nombre": "Jose",
+    "Apellido": "Garcia",
+    "Documento": 1015778903,
+    "Años de EXperiencia": 3
+  },
+  {
+    "Nombre": "Andres",
+    "Apellido": "Tapias",
+    "Documento": 1086578903,
+    "Años de EXperiencia": 4
+  },
+  {
+    "Nombre": "Mauricio",
+    "Apellido": "Escobar",
+    "Documento": 1035715903,
+    "Años de EXperiencia": 2
+  },
+  {
+    "Nombre": "Carlos",
+    "Apellido": "Orjuela",
+    "Documento": 80045789,
+    "Años de EXperiencia": 9
+  },
+  {
+    "Nombre": "Emilio",
+    "Apellido": "Rodriguez",
+    "Documento":79815276,
+    "Años de EXperiencia": 10
+  },
+  {
+    "Nombre": "Adrian",
+    "Apellido": "Morales",
+    "Documento": 89945678,
+    "Años de EXperiencia": 7
+  }
+]
